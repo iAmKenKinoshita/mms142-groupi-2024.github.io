@@ -6,8 +6,8 @@ body {
 	background-size: cover;
 	background-image: url("../images/background.png");
 	background-color: #171721;
+	color: white;
 }
-
 
 /* Navbar styling */
 .navbar {
@@ -48,3 +48,41 @@ footer {
 	width: 100%;
 }
 
+.emerging {
+	color: #ffffff;
+}
+
+.influencer {
+	color: #aa2cc0;
+}
+
+.title {
+	color: #ffd264;
+}
+
+.subtitle {
+	color: #ff6902;
+}
+
+.defining {
+	font-size: 10px;
+}
+
+.img-container {
+  position: relative;
+  display: inline-block;
+
+}
+
+.custom-img {
+  width: 230px;
+  height: 180px;
+  object-fit: cover; 
+}
+
+.dots-overlay {
+  position: absolute;
+  top: -40px;
+  right: -25px;
+  width: 80px; /* Adjust based on your colored dots image dimensions */
+}
