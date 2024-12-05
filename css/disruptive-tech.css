@@ -42,8 +42,6 @@ footer {
 	text-align: center;
 	padding: 15px 0;
 	font-size: 14px;
-	border-top: 1px solid #333333;
-	position: fixed;
 	bottom: 0;
 	width: 100%;
 }
@@ -56,11 +54,11 @@ footer {
 	color: #aa2cc0;
 }
 
-.title {
+.title span:first-of-type {
 	color: #ffd264;
 }
 
-.subtitle {
+.title span:nth-child(2) {
 	color: #ff6902;
 }
 
@@ -68,21 +66,57 @@ footer {
 	font-size: 10px;
 }
 
-.img-container {
-  position: relative;
-  display: inline-block;
+.defining h1,
+.defining h2 {
+	color: #ec0075;
+}
 
+.img-container {
+	position: relative;
+	display: inline-block;
+}
+
+.background:first-of-type {
+	position: absolute;
+	background-color: #AA2CC0; 
+	width: 100px;
+	height: 60%;
+	top: 20%;
+	left: 0;
+	z-index: -5;
 }
 
 .custom-img {
-  width: 230px;
-  height: 180px;
-  object-fit: cover; 
+	width: 230px;
+	height: 180px;
+	object-fit: cover;
 }
 
 .dots-overlay {
-  position: absolute;
-  top: -40px;
-  right: -25px;
-  width: 80px; /* Adjust based on your colored dots image dimensions */
+	position: absolute;
+	top: -40px;
+	right: -25px;
+	width: 80px; /* Adjust based on your colored dots image dimensions */
 }
+
+.miscontrued {
+	color: #ff6902;
+}
+
+.disruptive-nature h3 {
+	color: #ffd264;
+}
+
+.last-section {
+	font-size: 10px;
+}
+
+.last-section p:nth-child(5) {
+	font-size: 12px;
+}
+
+/* .last-section img {
+  width: 400px;
+	height: px;
+	object-fit: cover;
+} */
