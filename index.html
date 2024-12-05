@@ -13,16 +13,25 @@
 	  <style>
 		  body {
 			  background-color: black; 
-			  background-image: url("/images/background.png"); 
+			  background-image: url("images/background.png"); 
 			  background-repeat: no-repeat; 
 			  background-attachment: scroll; 
 			  background-position: center;
-			  src: url("/fonts/Roboto-Bold.ttf") format("truetype");
-			  src: url("/fonts/Roboto-Regular.ttf") format("truetype");
-			  src: url("/fonts/Rambla-Bold.ttf") format("truetype");
-			  src: url("/fonts/ArialUnicode-Regular.otf") format("opentype");
-			  src: url("/fonts/Rambla-Regular.ttf") format("truetype");
 		  }
+		@font-face {
+  		src: url("../fonts/ArialUnicode-Regular.otf") format("opentype");
+  		font-family: Arial Unicode;
+		}
+		
+		@font-face {
+		  src: url("../fonts/Rambla-Regular.ttf") format("truetype");
+		  font-family: Rambla;
+		}
+
+		@font-face {
+		  src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+		  font-family: Roboto;
+		}
 	  </style>
 	</head>
 <body>
@@ -115,9 +124,9 @@
 <body>
 
 <!--this be the title -->
-	<div style="text-align: center;">
+	<div style="text-align: center; margin: 0 5% 0 5%;">
 		<img src="ELEMENTS/1.png" style="float: left;">
-		<p style = "color: #FFFFFF; font-family: Roboto-Bold; font-size: 200%; margin: 10% 20% 10% 20%;"> The Disruptive Impact of AI-Driven Digital Influencers on Social Media Marketing </p>
+		<p style = "color: #FFFFFF; font-family: Roboto; font-size: 200%; font-weight: bold;" padding: 20%;> The Disruptive Impact of AI-Driven Digital Influencers on Social Media Marketing </p>
 		<img src="ELEMENTS/2.png" style="float: right;">
 	</div>
 
