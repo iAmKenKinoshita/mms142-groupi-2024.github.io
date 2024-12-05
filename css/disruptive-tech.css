@@ -1,0 +1,122 @@
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-color: #1b1b1b;
+	background: url("../images/background.png") no-repeat center center fixed;
+	background-size: cover;
+	background-image: url("../images/background.png");
+	background-color: #171721;
+	color: white;
+}
+
+/* Navbar styling */
+.navbar {
+	background-color: white;
+}
+.navbar-brand {
+	font-weight: bold;
+	color: #f4a900;
+}
+.nav-link {
+	color: black;
+	font-weight: 500;
+}
+.nav-link:hover {
+	color: #f4a900;
+}
+.btn-homepage {
+	background-color: #ffd369;
+	color: black;
+	font-weight: bold;
+	border-radius: 20px;
+	padding: 5px 15px;
+}
+.btn-homepage:hover {
+	background-color: #ffc107;
+}
+
+/* Footer styling */
+footer {
+	background-color: #1b1b1b;
+	color: #d3d3d3;
+	text-align: center;
+	padding: 15px 0;
+	font-size: 14px;
+	bottom: 0;
+	width: 100%;
+}
+
+.emerging {
+	color: #ffffff;
+}
+
+.influencer {
+	color: #aa2cc0;
+}
+
+.title span:first-of-type {
+	color: #ffd264;
+}
+
+.title span:nth-child(2) {
+	color: #ff6902;
+}
+
+.defining {
+	font-size: 10px;
+}
+
+.defining h1,
+.defining h2 {
+	color: #ec0075;
+}
+
+.img-container {
+	position: relative;
+	display: inline-block;
+}
+
+.background:first-of-type {
+	position: absolute;
+	background-color: #AA2CC0; 
+	width: 100px;
+	height: 60%;
+	top: 20%;
+	left: 0;
+	z-index: -5;
+}
+
+.custom-img {
+	width: 230px;
+	height: 180px;
+	object-fit: cover;
+}
+
+.dots-overlay {
+	position: absolute;
+	top: -40px;
+	right: -25px;
+	width: 80px; /* Adjust based on your colored dots image dimensions */
+}
+
+.miscontrued {
+	color: #ff6902;
+}
+
+.disruptive-nature h3 {
+	color: #ffd264;
+}
+
+.last-section {
+	font-size: 10px;
+}
+
+.last-section p:nth-child(5) {
+	font-size: 12px;
+}
+
+/* .last-section img {
+  width: 400px;
+	height: px;
+	object-fit: cover;
+} */
