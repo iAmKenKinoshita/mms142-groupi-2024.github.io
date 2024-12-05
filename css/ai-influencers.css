@@ -50,6 +50,10 @@ footer {
 	color: #aa2cc0;
 }
 
+.title p {
+	font-size: 16px;
+}
+
 .title span:first-of-type {
 	color: #ffd264;
 }
@@ -85,19 +89,28 @@ footer {
 	width: 80px; /* Adjust based on your colored dots image dimensions */
 }
 
-.miscontrued {
+.second-section h3 {
+	color: #4564dc;
+}
+
+.third-section h3 {
+	color: #494aa6;
+}
+
+.fourth-section h2 {
 	color: #ff6902;
 }
 
-.disruptive-nature h3 {
+.fourth-section p {
 	color: #ffd264;
+	font-size: 15px;
 }
 
-.last-section {
+.fifth-section {
 	font-size: 10px;
 }
 
-.last-section p:nth-child(5) {
+.fifth-section p:nth-child(5) {
 	font-size: 12px;
 }
 
