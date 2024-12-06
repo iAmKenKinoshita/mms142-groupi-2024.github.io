@@ -1,4 +1,14 @@
+@font-face {
+  src: url("../fonts/ArialUnicode-Regular.otf") format("opentype");
+  font-family: ArialUnicode;
+  font-weight: Regular;
+}
 
+@font-face {
+  src: url("../fonts/ArialUnicode-Bold.otf") format("opentype");
+  font-family: ArialUnicode;
+  font-weight: 200;
+}
 
 /* Navbar styling */
 .navbar {
