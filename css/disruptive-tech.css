@@ -50,11 +50,11 @@ footer {
 	color: #aa2cc0;
 }
 
-.title span:first-of-type {
+.title h1:first-of-type {
 	color: #ffd264;
 }
 
-.title span:nth-child(2) {
+.title h1:nth-child(2) {
 	color: #ff6902;
 }
 
@@ -78,18 +78,11 @@ footer {
 	object-fit: cover;
 }
 
-.dots-overlay {
-	position: absolute;
-	top: -40px;
-	right: -25px;
-	width: 80px; /* Adjust based on your colored dots image dimensions */
-}
-
 .miscontrued {
 	color: #ff6902;
 }
 
-.disruptive-nature h3 {
+.disruptive-nature h1 {
 	color: #ffd264;
 }
 
