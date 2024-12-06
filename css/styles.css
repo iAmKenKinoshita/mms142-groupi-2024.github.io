@@ -1,12 +1,4 @@
-body {
-	margin: 0;
-	font-family: Arial, sans-serif;
-	background-color: #1b1b1b;
-	background: url("../images/background.png") no-repeat center center fixed;
-	background-size: cover;
-	background-image: url("../images/background.png");
-	background-color: #171721;
-}
+
 
 /* Navbar styling */
 .navbar {
