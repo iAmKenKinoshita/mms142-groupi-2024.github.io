@@ -3,6 +3,8 @@
 /* Navbar styling */
 .navbar {
 	background-color: white;
+	font-family: ArialUnicode;
+  	color: black;
 }
 .navbar-brand {
 	font-weight: bold;
