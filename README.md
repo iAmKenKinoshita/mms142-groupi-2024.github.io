@@ -1,7 +1,10 @@
 <h1>AI-Driven Digital Influencers as a Distruptive Technology </h1
 <dl>Welcome to the official repository of CorgAI group, showing how AI-Driven influencers affect social media marketing.
 The website is designed to present and inform the web users and cyber junkies in today's advent of technology the distinct advantages
-as well as the various detrimental impacts of AI personalities promoting products on social media. 
+as well as the various detrimental impacts of AI personalities promoting products on social media. <br><br>
+
+The site is optimized for viewing on a desktop internet browser to provide the best experience.
+
 
 
 </dl>
@@ -18,7 +21,7 @@ as well as the various detrimental impacts of AI personalities promoting product
 <li>Robbie Jacinto</li>
 <li>Ma. Gelika Javier</li>
 <li>Erwin Javillonar</li>
-<li>Kate Garcia Junio</li>
+<li>Catherine Faith Junio</li>
 <li>Achilles Juntilla</li>
 <li>Ken Buslon Kinoshita</li>
 <li>Angel Mae Laureano</li>
@@ -35,9 +38,9 @@ as well as the various detrimental impacts of AI personalities promoting product
     <th>Editors</th>
   </tr>
   <tr>
-    <td>Angela Laureano</td>
+    <td>Angel Laureano</td>
     <td>Ken Kinoshita</td>
-    <td>Kate Junio</td>
+    <td>Catherine Faith Junio</td>
   </tr>
   <tr>
     <td>Marian Llanto</td>
@@ -46,7 +49,7 @@ as well as the various detrimental impacts of AI personalities promoting product
   </tr>
   <tr>
     <td>Fiona Gumasing</td>
-    <td>Kate Junio</td>
+    <td>Catherine Faith Junio</td>
     <td>Robbie Jacinto</td>
   </tr>
   <tr>
@@ -102,3 +105,5 @@ as well as the various detrimental impacts of AI personalities promoting product
 <li>Documentation/wiki uploaded</li>
 </dd> 
 </dl>
+
+<h3>Site Screenshots</h3>
