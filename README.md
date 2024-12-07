@@ -1,6 +1,6 @@
 <h1>AI-Driven Digital Influencers as a Distruptive Technology </h1
-<dl>Welcome to the official repository of CorgAI group about the website showing how AI-Driven influencers affect social media marketing. <br>
-The website is designed to present and inform the web users and cyber junkies in today's advent of technology the distinct advantages <br>
+<dl>Welcome to the official repository of CorgAI group about the website showing how AI-Driven influencers affect social media marketing.
+The website is designed to present and inform the web users and cyber junkies in today's advent of technology the distinct advantages
 as well as the various detrimental impacts of AI personalities promoting products on social media. 
 
 
