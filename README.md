@@ -27,8 +27,44 @@ as well as the various detrimental impacts of AI personalities promoting product
 
 
 
-<h3>Roles</h3>
-<li>test 2</li>
+<h3>Task Distribution</h3>
+<table>
+  <tr>
+    <th>Visuals</th>
+    <th>Coding</th>
+    <th>Editors</th>
+  </tr>
+  <tr>
+    <td>Angela Laureano</td>
+    <td>Ken Kinoshita</td>
+    <td>Kate Junio</td>
+  </tr>
+  <tr>
+    <td>Marian Llanto</td>
+    <td>Robbie Jacinto</td>
+    <td>Rouie Marice Halog</td>
+  </tr>
+  <tr>
+    <td>Fiona Gumasing</td>
+    <td>Kate Junio</td>
+    <td>Robbie Jacinto</td>
+  </tr>
+  <tr>
+    <td>Archiles Juntilla</td>
+    <td>Dan Labayo</td>
+    <td>Ma. Gelika Javier</td>
+  </tr>
+  <tr>
+    <td>Erwin Javillonar</td>
+    <td></td>
+    <td>Dan Labayo</td>
+  </tr>
+  <tr>
+    <td>Rouie Marice Halog</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <h3>Timeline</h3>
 <li>test3</li>
