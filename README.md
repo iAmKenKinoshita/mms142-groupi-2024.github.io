@@ -69,43 +69,36 @@ as well as the various detrimental impacts of AI personalities promoting product
 <h3>Timeline</h3>
 <dl>
   <dt>November 10</dt>
-  <dd>Three threads are launched for Github Usernames, Planning and Announcements, and Topic Selection or Suggestion<br>
-  Google Form for scheduling purposes is launched</dd>
+  <dd><li>Three threads are launched for Github Usernames, Planning and Announcements, and Topic Selection or Suggestion</li>
+  <li>Google Form for scheduling purposes is launched</li></dd>
   
   <dt>November 15</dt>
-  <dd>The topic is finalized and submitted</dd>
+  <dd><li>The topic is finalized and submitted</li></dd>
   
   <dt>November 16</dt>
-  <dd>The topic has been approved</dd>
+  <dd><li>The topic has been approved</li></dd>
 
   <dt>November 17</dt>
-  <dd>The first meeting delegation has been conducted<br>
-Roles have been assigned<br>
-Report writing has begun\
+  <dd><li>The first meeting delegation has been conducted</li>
+<li>Roles have been assigned</li>
+<li>Report writing has begun</li>
 
  <dt>November 26</dt>
-  <dd>Nov 26, 2024
-The second meeting delegation for visual and coding team has been conducted<br>
-UI/UX creation has begun
+  <dd>
+<li>The second meeting delegation for visual and coding team has been conducted</li>
+<li>UI/UX creation has begun</li>
 
 
   <dt>November 29</dt>
-  <dd>The third meeting delegation for coding has been conducted<br>
-Coding locally has begun
+  <dd><li>The third meeting delegation for coding has been conducted</li>
+<li>Coding locally has begun</li>
 
   <dt>December 6</dt>
-  <dd>Webpages merged from local to GitHub<br>
-Link testing has commenced
+  <dd><li>Webpages merged from local to GitHub</li>
+<li>Link testing has commenced</li>
 
   <dt>December 7</dt>
-  <dd>Final touches to website made<br>
-Documentation/wiki uploaded
-
-
-
-
-
-</dd>
-
-  
+  <dd><li>Final touches to website made</li>
+<li>Documentation/wiki uploaded</li>
+</dd> 
 </dl>
