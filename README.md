@@ -19,7 +19,7 @@
 <li>Ma. Gelika Javier</li>
 <li>Erwin Javillonar</li>
 <li>Catherine Faith Junio</li>
-<li>Achilles Juntilla</li>
+<li>Archilles Juntilla</li>
 <li>Ken Buslon Kinoshita</li>
 <li>Angel Mae Laureano</li>
 <li>Marian Llanto</li>
