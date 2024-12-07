@@ -4,59 +4,337 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>References - CorgAI</title>
-    <link rel="stylesheet" href="styles.css">
+	<link rel="shortcut icon" type="image/x-icon" href="./favicon/favicon.ico" />
+   <link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+		/>
+	<link rel="stylesheet" href="css/styles.css" />
+	<style>
+	body {
+			background-color: #171721;; 
+			  background-image: url("images/background.png"); 
+			
+			  background-position: center;
+			margin: 0;
+			padding: 0;
+		}
+		 @font-face {
+  		src: url("fonts/ArialUnicode-Regular.otf");
+  		font-family: Arial Unicode;
+		}
+		
+		@font-face {
+		  src: url("fonts/Rambla-Regular.ttf");
+		  font-family: Rambla;
+		}
+
+		@font-face {
+		  src: url("fonts/Roboto-Regular.ttf");
+		  font-family: Roboto;
+		} 
+	p {
+		position: relative;
+		width: 100%;
+		}
+	div {
+		padding-left: 5%;
+		
+		display: flex; 
+		flex-wrap: nowrap;
+		align-items: center;
+		justify-content: center;
+		width: 90%;
+		}
+	div.title {
+		margin-top: 1%;
+		}
+	div.refs {
+		margin-bottom: 1%;
+		}
+	p.title {
+		font-family: Rambla;
+		font-weight: bold;
+		font-size: 50px;
+		margin: 0 10%;
+		}
+	p.left {
+		font-family: ArialUnicode;
+		text-align: justify;
+		font-size: 90%;
+		float: left;
+		margin: 0% 2.5% 5% 5%;
+		color: white;
+		width: 50%;
+		}
+	p.right {
+		font-family: ArialUnicode;
+		text-align: justify;
+		font-size: 90%;
+		float: right;
+		margin: 1% 5% 5% 2.5%;
+		color: white;
+		width: 50%;
+		}
+	
+	h1 {
+		font-family: Roboto;
+		text-align: right;
+		margin-right: 15%;
+		}
+	</style>
 </head>
 <body>
-    <header>
-        <img src="logo.png" alt="CorgAI Logo">
-        <nav>
-            <ul>
-                <li><a href="index.html">Homepage</a></li> <!-- Link to Homepage -->
-                <li><a href="disruptive-tech.html">Disruptive Tech</a></li> <!-- Link to Disruptive Tech page -->
-                <li><a href="ai-influencers.html">AI Influencers</a></li> <!-- Link to AI Influencers page -->
-                <li><a href="disruptive-impact.html">Disruptive Impact</a></li> <!-- Link to Disruptive Impact page -->
-                <li><a href="future-onwards.html">Future Onwards</a></li> <!-- Link to Future Onwards page -->
-                <li><a href="conclusion.html">Conclusion</a></li> <!-- Link to Conclusion page -->
-                <li><a href="references.html">References</a></li> <!-- Link to References page -->
+     <nav class="navbar sticky-top navbar-expand-lg navbar-light">
+    <div class="container-lg">
+      <a class="navbar-brand" href="index.html">
+        <img
+          src="images/logo.jpeg"
+          alt="CorgAI Icon"
+          width="30"
+          height="24"
+        />CorgAI
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Homepage</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="disruptive-tech.html">Disruptive Tech</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="ai-influencers.html">AI Influencers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="disruptive-impact.html">Disruptive Impact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="future-onwards.html">Future Onwards</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="btn btn-homepage dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Conclusion
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" href="conclusion.html">Innovation with Impact</a></li>
+              <li><a class="dropdown-item" href="references.html">References</a></li>
             </ul>
-        </nav>
-    </header>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
-    <section id="references">
-        <h2>References</h2>
-    
-        <!-- Disruptive Technology Section -->
-        <h3>Disruptive Technology</h3>
-        <div class="content-row">
-            <p>
-                <!-- Example citation for Disruptive Technology -->
-                Christensen, C. M. (2015). What is disruptive innovation? Harvard Business Review. Retrieved from <a href="https://hbr.org/2015/12/what-is-disruptive-innovation" target="_blank">https://hbr.org/2015/12/what-is-disruptive-innovation</a>
-            </p>
-        </div>
-    
-        <!-- AI Influencers Section -->
-        <h3>AI Influencers</h3>
-        <div class="content-row">
-            <p>
-                <!-- Example citation for AI Influencers -->
-                Davies, N. (2023, September 5). 6 ways using generative AI in influencer marketing shapes authentic audience engagement. Agility PR Solutions. Retrieved from <a href="https://www.agilitypr.com/pr-news/public-relations/6-ways-using-generative-ai-in-influencer-marketing-shapes-authentic-audience-engagement/" target="_blank">https://www.agilitypr.com/pr-news/public-relations/6-ways-using-generative-ai-in-influencer-marketing-shapes-authentic-audience-engagement/</a>
-            </p>
-        </div>
-    
-        <!-- Disruptive Impact Section -->
-        <h3>Disruptive Impact</h3>
-        <div class="content-row">
-            <p>
-                <!-- Example citation for Disruptive Impact -->
-                Kumar, A. (2023, March 10). The rise of AI-driven influencers in social media marketing. Digital Marketing Insights. Retrieved from <a href="https://www.digitalmarketinginsights.com/ai-driven-influencers-social-media" target="_blank">https://www.digitalmarketinginsights.com/ai-driven-influencers-social-media</a>
-            </p>
-        </div>
-    </section>
+	
+<h1 style="color: #ff6903; font-style: italic; font-size: 70px; margin-bottom: 2%; margin-top: 40px">
+Page
+</h1>
+<h1 style="color: #ff3131; font-weight: bold; font-size: 120px; line-height: 25%; margin-top: 0%; margin-bottom: 5%;">
+References
+</h1>
 
-    <footer>
-        <img src="footer_logo.png" alt="CorgAI Logo">
-        <p>CorgAI (Website) © 2024 by MMS 142</p>
-        <p>Group 1 is licensed under a CC BY-NC-ND 4.0</p>
+<div class="title">
+	<p class="title" style="color: #ec0075; text-align: left;">
+	Disruptive Technology
+	</p>
+</div>
+
+<div class="refs">
+	<p class="left">
+	TechTarget. (n.d.). Disruptive technology. TechTarget. Retrieved from https://www.techtarget.com/whatis/definition/disruptive-technology
+
+<br><br>
+
+Christensen, C. M., Raynor, M. E., & McDonald, R. (2015, December). What is disruptive innovation? Harvard Business Review. Retrieved from https://hbr.org/2015/12/what-is-disruptive-innovation
+	</p>
+	
+	<p class="right">
+	<img src="ELEMENTS/25.png" style="margin-left: 25%; max-width: 90%">
+	</p>
+</div>
+
+<div class="title">
+	<p class="title" style="color: #ff3131; text-align: right;">
+	AI Influencers
+	</p>
+</div>
+<div class="refs"> <!-- second set-->
+
+	<p class="left">
+
+Davies, N. (2023, September 5). 6 ways using generative AI in influencer marketing shapes authentic audience engagement. Agility PR Solutions. Retrieved from https://www.agilitypr.com/pr-news/public-relations/6-ways-using-generative-ai-in-influencer-marketing-shapes-authentic-audience-engagement/
+
+<br><br>
+
+Fekadu, M. (2024, January 19). Republic Records: Kids & Family, Invisible Universe Partner to Release Music by Serena Williams’ Qai Qai (Exclusive). The Hollywood Reporter. Retrieved from Retrieved from https://www.hollywoodreporter.com/news/music-news/republic-records-invisible-universe-serena-williams-qai-qai-1235791807/
+
+<br><br>
+
+Gujar, P. (2024, Aug 15). Revolutionizing Influencer Marketing With Generative AI: Strategies, Implications And The Future. Forbes. Retrieved from https://www.forbes.com/councils/forbestechcouncil/2024/08/15/revolutionizing-influencer-marketing-with-generative-ai-strategies-implications-and-the-future/
+
+<br><br>
+
+Hayes, M., & Downie, A. (2024, August 5). AI personalization. AI Personalization. Retrieved from https://www.ibm.com/think/topics/ai-personalization
+</p>
+
+<p class="right">
+Holdsworth, J. (2024, January 18). Unlocking the power of chatbots key benefits for businesses and customers. IBM. Retrieved from https://www.ibm.com/think/insights/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers
+
+<br><br>
+
+Hootsuite Inc. (n.d.). Why should I use a content ideas generator?. AI Content Ideas Generator [Free Tool]. Retrieved from https://www.hootsuite.com/social-media-tools/content-ideas-generator
+
+<br><br>
+
+Influencity. (2024, September 2). AI Influencer: How virtual personalities are shaping the future of marketing. Influencity. Retrieved from https://influencity.com/blog/en/ai-influencer
+
+<br><br>
+
+Kehn, T. (2024, September 24). AI-Generated Influencers: The Future of Social Media Marketing. CHESA. Retrieved from https://chesa.com/ai-generated-influencers-the-future-of-social-media-marketing/
+
+<br><br>
+
+Molenaar, K. (2024, October 7). Listed and Ranked! Preview for Discover The Top 12 Virtual Influencers for 2024 – Listed and Ranked! Influencer Marketing Hub. Retrieved from https://influencermarketinghub.com/virtual-influencers/
+</p>
+
+</div>
+
+<div class="title">
+	<p class="title" style="color: #ffd265; text-align: left;">
+	Disruptive Impact
+	</p>
+</div>
+
+<div class="refs">
+	<p class="left">
+		<img src="ELEMENTS/26.png" style="margin-left: 25%; max-width: 90%">
+	</p>
+	<p class="right">
+
+Abidin, C. R. Y. S. T. A. L. (2020). L8r H8r: Commoditized privacy, influencer wars, and productive disorder in the influencer industry. Produsing Theory in a Digital World: The Intersection of Audiences and Production in Contemporary Theory, 3, 31–48.
+
+<br><br>
+
+Allal-Chérif, O., Puertas, R., & Carracedo, P. (2023). Intelligent influencer marketing: how AI-powered virtual influencers outperform human influencers. Technological Forecasting and Social Change, 200, 123113. https://doi.org/10.1016/j.techfore.2023.123113
+
+<br><br>
+
+Anderson, M., Vogels, E. A., Perrin, A., & Rainie, L. (2022, November 16). Connection, creativity, and drama: Teen life on social media in 2022. Pew Research Center: Internet & Technology. Retrieved from https://www.pewresearch.org/internet/2022/11/16/connection-creativity-and-drama-teen-life-on-social-media-in-2022/
+
+<br><br>
+
+Andrus, E. (2024, May 24). Rising (virtual) stars: Navigating the potential & pitfalls of AI influencers. DEPT®. Retrieved from https://www.deptagency.com/insight/rising-virtual-stars-navigating-the-potential-pitfalls-of-ai-influencers/ 
+
+<br><br>
+
+Christin, A., & Lewis, R. (2021). The drama of metrics: Status, spectacle, and resistance among YouTube drama creators. Social Media+ Society, 7(1), 2056305121999660.
+	</p>
+</div>
+
+
+<div class="refs">
+	<p class="left">
+
+Dixon, S. J. (2024, August 29). UK: digitally-altered and AI generated content and online misinformation. Statista. Retrieved from https://www.statista.com/statistics/1489655/uk-digitally-altered-ai-generated-content-online-misinformation/ 
+
+<br><br>
+
+Gómez, A. R. (2019). Digital fame and fortune in the age of social media: A classification of social media influencers. aDResearch: Revista Internacional de Investigación en Comunicación, (19), 8-29.
+
+<br><br>
+
+Gräve, J. F. (2017, July). Exploring the perception of influencers vs. traditional celebrities: Are social media stars a new type of endorser? In Proceedings of the 8th international conference on Social Media & Society (pp. 1-5).
+
+<br><br>
+
+Hahl, S. (2023). Perception of uncredibility in influencers' paid social media marketing collaborations (Master's thesis).
+
+<br><br>
+
+Influencity. (2024, September 2). AI Influencer: How Virtual Personalities are Shaping the Future of Marketing. Influencity. Retrieved from https://influencity.com/blog/en/ai-influencer
+
+<br><br>
+
+Kuznetcova, D. (2024). Taxation of social media content creators and influencers.
+
+<br><br>
+
+Lee, H., Shin, M., Yang, J., & Chock, T. M. (2024). Virtual Influencers vs. Human Influencers in the Context of Influencer Marketing: The Moderating Role of Machine Heuristic on Perceived Authenticity of Influencers. International Journal of Human-Computer Interaction, 1–18. https://doi.org/10.1080/10447318.2024.2374100 
+
+	</p>
+	<p class="right">
+		<img src="ELEMENTS/27.png" style="margin-right: 25%; max-width: 90%">
+	</p>
+</div>
+
+
+<div class="refs">
+	<p class="left">
+Mohammad, A. A. S., Aityassine, F. L. Y., al-fugaha, Z. N. A., Alshurideh, M. T., Alajarmeh, N. S., Al-Momani, A. A., ... & Al-Adamat, A. M. (2024). The impact of influencer marketing on brand perception: A study of Jordanian customers influenced on social media platforms. In Business Analytical Capabilities and Artificial Intelligence-Enabled Analytics: Applications and Challenges in the Digital Era, Volume 1 (pp. 363–376). Cham: Springer Nature Switzerland.
+
+<br><br>
+
+Nguyen, H. (2024, May 29). Can you trust your social media feed? UK public concerned about AI content and misinformation. YouGov PLC. Retrieved from https://business.yougov.com/content/49550-labelling-ai-generated-digitally-altered-content-misinformation-2024-research 
+
+<br><br>
+
+Oberlo. (n.d.). How much do brands spend on influencer marketing? Retrieved from https://www.oberlo.com/statistics/how-much-do-brands-spend-on-influencer-marketing
+
+<br><br>
+
+Orencia, A. J. (2023). Authenticity, relatability, and cultural influences in contemporary marketing strategies: A qualitative inquiry. Psychology and Education: A Multidisciplinary Journal, 15, 675-679.
+
+<br><br>
+
+Orozco, A. D., & Suárez, E. F. (2024). Influencer marketing in the digital age: The rise of social media personalities as brand ambassadors. Journal of Digital Marketing and Social Media, 25(2), 45-59.
+	</p>
+	<p class="right" style="padding-bottom: 5%;">
+Quesenberry, K. A., & Coolsen, M. K. (2019). Drama goes viral: Effects of story development on shares and views of online advertising videos. Journal of Interactive Marketing, 48, 1–16. https://doi.org/10.1016/j.intmar.2019.05.001
+
+<br><br>
+
+Sands, S., Ferraro, C., Demsar, V., & Chandler, G. (2022). False idols: Unpacking the opportunities and challenges of falsity in the context of virtual influencers. Business Horizons, 65(6), 777–788.
+
+<br><br>
+
+Shaikh, Z., Shaikh, W., Husain, Z., & Alamassi, S. (2024). The evolution of social media: From connecting people to empowering influencers. In 2024 International Conference on Multimedia Computing, Networking and Applications (MCNA), Valencia, Spain (pp. 74-81). https://doi.org/10.1109/MCNA63144.2024.10703909 
+
+<br><br>
+
+Sudnick, K. E. (2020). The banality of the social: A philosophy of communication of social media influencer marketing (Doctoral dissertation, Duquesne University).
+
+<br><br>
+
+Xiong, X. (2024). The influence of YouTube beauty vloggers’ drama on the profit of cosmetics brands. Journal of Education, Humanities and Social Sciences, 35, 498–503.
+
+<br><br>
+
+Yan, X., Huam, H. T., & Sade, A. B. (2024). Is AI Better than Humans? Unveiling the Boundary Conditions Under Which Virtual Influencers Outperform Human Influencers in Endorsing Sustainable Products. Sustainability, 16(22), 9896. https://doi.org/10.3390/su16229896 
+	</p>
+</div>
+
+     <footer>
+      <p>© Group I, First Term - 2024-2025. All rights reserved.</p>
     </footer>
+		  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
