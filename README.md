@@ -1,5 +1,5 @@
 <h1>AI-Driven Digital Influencers as a Distruptive Technology </h1
-<dl>Welcome to the official repository of CorgAI group about the website showing how AI-Driven influencers affect social media marketing.
+<dl>Welcome to the official repository of CorgAI group, showing how AI-Driven influencers affect social media marketing.
 The website is designed to present and inform the web users and cyber junkies in today's advent of technology the distinct advantages
 as well as the various detrimental impacts of AI personalities promoting products on social media. 
 
@@ -9,7 +9,7 @@ as well as the various detrimental impacts of AI personalities promoting product
 
 
 <h2>General Documentation</h2>
-<h3>Members</h3>
+<h3><u>Members</h3>
 <li>Fiona Gumasing </li>
 <li>Paol Suzara Guzman</li>
 <li>Rouie Marice Mariano Halog</li>
@@ -67,4 +67,45 @@ as well as the various detrimental impacts of AI personalities promoting product
 </table>
 
 <h3>Timeline</h3>
-<li>test3</li>
+<dl>
+  <dt>November 10</dt>
+  <dd>Three threads are launched for Github Usernames, Planning and Announcements, and Topic Selection or Suggestion<br>
+  Google Form for scheduling purposes is launched</dd>
+  
+  <dt>November 15</dt>
+  <dd>The topic is finalized and submitted</dd>
+  
+  <dt>November 16</dt>
+  <dd>The topic has been approved</dd>
+
+  <dt>November 17</dt>
+  <dd>The first meeting delegation has been conducted<br>
+Roles have been assigned<br>
+Report writing has begun\
+
+ <dt>November 26</dt>
+  <dd>Nov 26, 2024
+The second meeting delegation for visual and coding team has been conducted<br>
+UI/UX creation has begun
+
+
+  <dt>November 29</dt>
+  <dd>The third meeting delegation for coding has been conducted<br>
+Coding locally has begun
+
+  <dt>December 6</dt>
+  <dd>Webpages merged from local to GitHub<br>
+Link testing has commenced
+
+  <dt>December 7</dt>
+  <dd>Final touches to website made<br>
+Documentation/wiki uploaded
+
+
+
+
+
+</dd>
+
+  
+</dl>
