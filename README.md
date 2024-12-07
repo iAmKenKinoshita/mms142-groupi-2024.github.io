@@ -105,5 +105,53 @@ The site is optimized for viewing on a desktop internet browser to provide the b
 <li>Documentation/wiki uploaded</li>
 </dd> 
 </dl>
+<br><br><br>
 
-<h3>Site Screenshots</h3>
+<h1>Site Screenshots</h1>
+<h2>Homepage</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/GroupI-Homepage-Full.png?raw=true">
+<br><br><br>
+
+<h2>Disruptive Tech</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Technology%20(1).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Technology%20(2).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Technology%20(3).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Technology%20(4).png?raw=true">
+<br><br><br>
+
+<h2>AI Influencers</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/AI%20Influencers%20(1).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/AI%20Influencers%20(2).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/AI%20Influencers%20(3).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/AI%20Influencers%20(4).png?raw=true">
+<br><br><br>
+
+<h2>Disruptive Impacts</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Impact%20(1).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/AI%20Influencers%20(2).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Impact%20(3).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Disruptive%20Impact%20(4).png?raw=true">
+<br><br><br>
+
+<h2>Future Onwards</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Future%20Onwards%20(1).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Future%20Onwards%20(2).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Future%20Onwards%20(3).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Future%20Onwards%20(4).png?raw=true">
+<br><br><br>
+
+<h2>Conclusion</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/Conclusion.png?raw=true">
+<br><br><br>
+
+<h2>References</h2>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/References%20(1).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/References%20(2).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/References%20(3).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/References%20(4).png?raw=true"><br><br>
+<img src="https://github.com/iAmKenKinoshita/mms142-groupi-2024.github.io/blob/main/screenshots/References%20(5).png?raw=true">
+<br><br><br>
+
+
+
+
