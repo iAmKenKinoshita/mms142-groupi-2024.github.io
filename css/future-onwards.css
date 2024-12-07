@@ -248,7 +248,7 @@ div > p {
 
 
 /* NavBar styling*/
-header {
+.navbar {
 	background-color: white;
   font-family: ArialUnicode;
   color: black;
