@@ -1,18 +1,15 @@
 <h1>AI-Driven Digital Influencers as a Distruptive Technology </h1
-<dl>Welcome to the official repository of CorgAI group, showing how AI-Driven influencers affect social media marketing.
-The website is designed to present and inform the web users and cyber junkies in today's advent of technology the distinct advantages
-as well as the various detrimental impacts of AI personalities promoting products on social media. <br><br>
+<dl>Welcome to the official repository of the CorgAI group, showcasing the influence of AI-driven personalities on social media marketing. This website is crafted to inform web users and tech enthusiasts about the unique benefits and potential drawbacks of AI influencers in promoting products on social media platforms in today’s technological era. 
+<br><br>
 
-The site is optimized for viewing on a desktop internet browser to provide the best experience.
-
-
-
+<i>The site is optimized for viewing on a desktop internet browser to provide the best experience.</i>
 </dl>
+<br><br>
 
 
 
 <h2>General Documentation</h2>
-<h3><u>Members</h3>
+<h3><u>Members</h3><br>
 <li>Fiona Gumasing </li>
 <li>Paol Suzara Guzman</li>
 <li>Rouie Marice Mariano Halog</li>
@@ -26,11 +23,12 @@ The site is optimized for viewing on a desktop internet browser to provide the b
 <li>Ken Buslon Kinoshita</li>
 <li>Angel Mae Laureano</li>
 <li>Marian Llanto</li>
+<br><br>
 
 
 
 
-<h3>Task Distribution</h3>
+<h3>Task Distribution</h3><br>
 <table>
   <tr>
     <th>Visuals</th>
@@ -68,8 +66,9 @@ The site is optimized for viewing on a desktop internet browser to provide the b
     <td></td>
   </tr>
 </table>
+<br><br>
 
-<h3>Timeline</h3>
+<h3>Timeline</h3><br>
 <dl>
   <dt>November 10</dt>
   <dd><li>Three threads are launched for Github Usernames, Planning and Announcements, and Topic Selection or Suggestion</li>
@@ -105,7 +104,7 @@ The site is optimized for viewing on a desktop internet browser to provide the b
 <li>Documentation/wiki uploaded</li>
 </dd> 
 </dl>
-<br><br><br>
+<br><br>
 
 <h1>Site Screenshots</h1>
 <h2>Homepage</h2>
